@@ -7,7 +7,6 @@
 </br>
 <div>
   
-  (local do Gif)
   
 </div>
 <div align="start">
